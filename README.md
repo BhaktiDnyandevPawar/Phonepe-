@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn streamlit
 ### Step 2: Run Streamlit App
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## Conclusion
